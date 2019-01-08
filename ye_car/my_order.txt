@@ -1,0 +1,10 @@
+go straight 3.0
+turn right 0.5
+go straight 2.0
+turn left 0.5
+go back 3.4
+turn left 0.5
+go straight 1.2
+turn right 0.5
+go straight 1.2
+turn left 6.0
